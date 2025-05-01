@@ -1,0 +1,10 @@
+// portfolio_data.json
+{
+    "username1": {
+        "AAPL": {"price": 150},
+        "MSFT": {"price": 300}
+    },
+    "username2": {
+        "GOOG": {"price": 2800}
+    }
+}
